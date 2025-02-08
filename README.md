@@ -2,7 +2,7 @@ To-Do List
 Web Project
 
 Overview:  
-This web-based to-do list application is crafted using HTML, CSS, and JavaScript. It provides an intuitive interface where users can effortlessly add, delete, and mark tasks as completed.
+This web-based to-do list application is crafted using HTML, CSS, and JavaScript. It provides an interface where users can effortlessly add, delete, and mark tasks as completed.
 
 Key Features:
 
